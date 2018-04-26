@@ -255,13 +255,13 @@ header {
 }
 
 .img-holder {
-    padding-bottom: 10%;
+    padding-bottom: 50%;
     overflow: hidden;
 }
 
 @media (max-width:1200px) {
     .img-holder {
-        padding-bottom: 50%;
+        padding-bottom: 10rem;
     }
 }
 
